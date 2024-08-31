@@ -14,3 +14,7 @@ Don't be shy about setting goals and asking for help achieving them! We're all h
 Example: [Ryan's first goal file](ryan.keyi.sol/2024-08-30-goals.md)
 
 The platform hosting these files, GitHub, uses simple formatting called MarkDown. This is a good starting point for understanding markdown - it's made to be very simple https://www.markdownguide.org/
+
+# How to use this
+
+You will need a GitHub account, and you'll need write permissions. Ask for help in the main chat if you don't already have them t.me/keyixyz and we'll get you set up.
