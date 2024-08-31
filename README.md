@@ -9,3 +9,6 @@ Each member may have a folder here named membername.keyi.sol and inside will be 
 Members are free to add whatever they want to their log.
 
 Don't be shy about setting goals and asking for help achieving them! We're all here to support each other and grow together. :)
+
+
+Example: [Ryan's first goal file](ryan.keyi.sol/2024-08-30-goals.md)
